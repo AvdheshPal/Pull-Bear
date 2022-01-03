@@ -7,7 +7,7 @@
 <p>
     We had used various technologies in our Project. We used HTML, CSS, JAVASCRIPT for the basic structure of our website. We had also used LOCALSTORAGE in our website for transfer the data from one page to another pages.
 </p>
-
+<img src="https://im7.ezgif.com/tmp/ezgif-7-81154025d4.gif" id="logo" />
 <h2>Components</h2>
 <p>
     If anyone visits our site, first of all you get the home page where you can choose your country and comfortable language then sign in or sign up page will popup. if you don’t want to sign in, just skip that and go ahead. You will then land on the product page where you can select unique products as per the gender, like jeans, trousers, jackets, shoes, etc. There are so many other products and if you click any of them you can see the discription other details about that particular product. If you want to buy it you can add it to the “Cart” or you can directly buy it, after that you can select your payment options either you can select online payment or  cash on delivery. If you select online payment you have the options of credit or debit card , pay by phone pay, google pay, paypal etc.
