@@ -2,6 +2,7 @@
 <h2>About Project</h2>
 <p>
     This Project has been assigned to us during our construct week in 2nd unit at masai school. The Project is about to clone the Pull & Bear shopping site. "Pull & Bear" is a spanish brand, specializes in manufacturing and selling urban style clothing and accessories. The brand uses the US popular culture in its product design.
+    In this `pull and bear` replica, we have implemented user register function, sort and filter products according to the preferences. At checkout user can even apply coupon if applicable.
 </p>
 <h2>Technologies used in Project</h2>
 <p>
@@ -36,5 +37,5 @@ And govind made product discription page , On description page you can select co
     <li><a href="https://github.com/AvdheshPal/">Avdhesh Pal</a></li>
     <li><a href="https://github.com/Govindsingh29">Govind Singh</a></li>
     <li><a href="https://github.com/shubhamtammewar">Shubham Tammewar</a></li>
-    <li><a href="https://github.com/CvamSinghh">shivam Singh</a></li>
+    <li><a href="https://github.com/ShivamSinghhh">shivam Singh</a></li>
 </ul>
